@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:icons="clr-namespace:Profile.Font"
+             mc:Ignorable="d"
+             x:Class="Profile.MainPage" >
+
+    <Grid RowSpacing="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200" />
+            <RowDefinition Height="120" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <ScrollView Grid.Row="0" 
+                    BackgroundColor="{StaticResource main}" VerticalOptions="StartAndExpand" HorizontalScrollBarVisibility="Default" VerticalScrollBarVisibility="Never">
+            <Grid Padding="5"  RowSpacing="0 ">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="150" />
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="50" />
+                </Grid.ColumnDefinitions>
+                
+                <Button Text="{x:Static icons:Icons.menu}"  Grid.Row="0" BorderColor="White" BorderWidth="1" TextColor="White"
+                    FontFamily="{StaticResource Font}"  HorizontalOptions="Start" VerticalOptions="Start" FontSize="15"
+                        HeightRequest="40" WidthRequest="40" BackgroundColor="{StaticResource main}"
+                    CornerRadius="20" />
+                <Button Text="{x:Static icons:Icons.cog}"  Grid.Row="0" BorderColor="White" BorderWidth="1" Grid.Column="2" TextColor="White"
+                    FontFamily="{StaticResource Font}"  HorizontalOptions="Start" VerticalOptions="Start" FontSize="15"
+                        HeightRequest="40" WidthRequest="40" BackgroundColor="{StaticResource main}"
+                    CornerRadius="20" />
+                
+                      <Frame  HeightRequest="100" WidthRequest="100" CornerRadius="100" Grid.Row="0" Grid.Column="1"
+                        VerticalOptions="Center" Padding="0"  HasShadow="True"
+                        HorizontalOptions="Center" BackgroundColor="{StaticResource brown}" BorderColor="White" >
+                    
+                        <Frame HeightRequest="25" WidthRequest="25" CornerRadius="50" Margin="5" Padding="0" BorderColor="Blue" >
+                          <Image Source="ProfPic.png" HeightRequest="30" WidthRequest="30"  Aspect="Fill"  />
+                        </Frame>
+                     </Frame>
+
+                              
+                <Button Text="123" TextColor="White" CornerRadius="20" Grid.Row="0" Grid.Column="1" HeightRequest="33"  FontSize="Small"
+                        WidthRequest="55"  HorizontalOptions="Start" VerticalOptions="CenterAndExpand" Margin="-5,0,0,0"/>
+                <Label Text="following" FontSize="Small" VerticalOptions="Center" Margin="-5,0,0,-55" TextColor="White" HorizontalOptions="Start" 
+                       Grid.Row="0" Grid.Column="1" />
+                <Button Text="032" TextColor="White" CornerRadius="20" Grid.Row="0" Grid.Column="1" HeightRequest="33" 
+                        WidthRequest="55"  HorizontalOptions="End" VerticalOptions="Center" Margin="0,0,-5,0" FontSize="12"/>
+                <Label Text="followers" FontSize="Small" TextColor="White" VerticalOptions="Center" Margin="0,0,-5,-55"
+                       HorizontalOptions="End" Grid.Column="1" />
+                <Label  Text="Marina Pedrazza"  FontSize="Large" FontAttributes="Bold" HorizontalOptions="Center"
+                    TextColor="White" Grid.Row="1" Grid.Column="1" VerticalOptions="Start" Margin="0,-15,0,0" />
+                <Label Text="Barcelona"  FontSize="Medium" Grid.Row="1" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Start"
+                      Margin="0,5,0,0" TextColor="White"/>
+                              </Grid>
+            </ScrollView>
+        <StackLayout Grid.Row="1" BackgroundColor="Beige" Padding="10,0,0,0">    
+            <Label   HorizontalTextAlignment="Start" LineHeight="1.5" FontSize="13"   
+                    HorizontalOptions="Start" >
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="I've just finished my studies in industrial Design Engineering " />
+                    <Span Text="at Elsiva in Barcelona. " />
+                    <Span Text="Since Founding my own web designing company,[WebTEX.com] " />
+                    <Span Text="and working as a web developer and designer, " />
+                    <Span Text="I have discovered  that my main  talent is in product design." />
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <Button Text="more" TextColor="White" BackgroundColor="{StaticResource brown}" CornerRadius="20"   
+                HeightRequest="28"  FontSize="8"  FontAttributes="Bold"
+                   WidthRequest="73"  Margin="0,-22,25,0" VerticalOptions="Center" HorizontalOptions="End"/>
+        </StackLayout>
+        <Grid RowSpacing="2" ColumnSpacing="2" Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+               <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Text="{x:Static icons:Icons.Phone}" Grid.Row="0" Grid.Column="0" FontSize="30"
+                    TextColor="{StaticResource brown}" FontFamily="{StaticResource Font}" BackgroundColor="White" />
+            <Button Text="{x:Static icons:Icons.Sphere}" Grid.Row="0" Grid.Column="1" FontSize="30"
+                    TextColor="{StaticResource brown}" FontFamily="{StaticResource Font}" BackgroundColor="White" />
+            <Button Text="{x:Static icons:Icons.Mail}" Grid.Row="0" Grid.Column="2" FontSize="30"
+                    TextColor="{StaticResource brown}" FontFamily="{StaticResource Font}" BackgroundColor="White" />
+            <Button Text="{x:Static icons:Icons.FaceBook}" Grid.Row="1" Grid.Column="0" FontSize="30"
+                    TextColor="{StaticResource brown}" FontFamily="{StaticResource Font}" BackgroundColor="White" />
+            <Button Text="{x:Static icons:Icons.Twitter}"  Grid.Row="1" Grid.Column="1" FontSize="30"
+                   TextColor="{StaticResource brown}" FontFamily="{StaticResource Font}" BackgroundColor="White" />
+            <Button Text="{x:Static icons:Icons.googlePlus}" Grid.Row="1" Grid.Column="2" FontSize="30"
+                    TextColor="{StaticResource brown}" FontFamily="{StaticResource Font}" BackgroundColor="White" />
+            <Button Text="{x:Static icons:Icons.youTube}" Grid.Row="2" Grid.Column="0" FontSize="30"
+                    TextColor="{StaticResource brown}" FontFamily="{StaticResource Font}" BackgroundColor="White" />
+            <Button Text="{x:Static icons:Icons.linkedIn}"  Grid.Row="2" Grid.Column="1" FontSize="30"
+                    TextColor="{StaticResource brown}" 
+                    FontFamily="{StaticResource Font}" BackgroundColor="White" />
+            <Button Text="{x:Static icons:Icons.Flickr}" Grid.Row="2" Grid.Column="2" FontSize="30"
+                    TextColor="{StaticResource brown}" FontFamily="{StaticResource Font}" BackgroundColor="White" />
+
+
+
+
+
+
+        </Grid>
+
+
+    </Grid>
+
+</ContentPage>

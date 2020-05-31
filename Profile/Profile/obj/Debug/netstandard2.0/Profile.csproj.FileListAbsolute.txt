@@ -1,0 +1,14 @@
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\bin\Debug\netstandard2.0\Profile.deps.json
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\bin\Debug\netstandard2.0\Profile.dll
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\bin\Debug\netstandard2.0\ref\Profile.dll
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\bin\Debug\netstandard2.0\Profile.pdb
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\obj\Debug\netstandard2.0\Profile.csprojAssemblyReference.cache
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\obj\Debug\netstandard2.0\Profile.csproj.CoreCompileInputs.cache
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\obj\Debug\netstandard2.0\Profile.AssemblyInfoInputs.cache
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\obj\Debug\netstandard2.0\Profile.AssemblyInfo.cs
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\obj\Debug\netstandard2.0\Profile.dll
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\obj\Debug\netstandard2.0\ref\Profile.dll
+C:\Users\charitynyanchera\Desktop\Profile\Profile\Profile\obj\Debug\netstandard2.0\Profile.pdb
