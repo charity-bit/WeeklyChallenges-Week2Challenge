@@ -5,7 +5,8 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:icons="clr-namespace:Profile.Font"
              mc:Ignorable="d"
-             x:Class="Profile.MainPage" >
+             x:Class="Profile.MainPage" 
+             Title="Simple Profile">
 
     <Grid RowSpacing="0">
         <Grid.RowDefinitions>
