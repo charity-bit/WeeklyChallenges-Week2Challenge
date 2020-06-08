@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "yj2+IMu8oBpabnAWZUlC4vwFU24PJJPV+EpOPc2gonMniG979DPRfTXit/1XyZ3n5DESRQNzopZ5GmbpldpJIg==",
+  "dgSpecHash": "4FmdN4f/2VxGtCVS3Lh2EtzMMJFnfgwKAoB0auMa7XBPjiidFl/I+cCZJwWrrbQlVeRrMdfqtuaJgcAVE2Ec1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile\\Profile.csproj",
+  "projectFilePath": "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile\\Profile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\charitynyanchera\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\charitynyanchera\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\charitynyanchera\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\charitynyanchera\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }

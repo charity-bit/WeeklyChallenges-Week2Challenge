@@ -1024,11 +1024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile.iOS\\Profile.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile.iOS\\Profile.iOS.csproj",
       "projectName": "Profile.iOS",
-      "projectPath": "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile.iOS\\Profile.iOS.csproj",
+      "projectPath": "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile.iOS\\Profile.iOS.csproj",
       "packagesPath": "C:\\Users\\charitynyanchera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile.iOS\\obj\\",
+      "outputPath": "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1049,8 +1049,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile\\Profile.csproj": {
-              "projectPath": "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile\\Profile.csproj"
+            "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile\\Profile.csproj": {
+              "projectPath": "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile\\Profile.csproj"
             }
           }
         }

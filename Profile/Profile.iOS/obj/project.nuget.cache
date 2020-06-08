@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/TF6O7lDxzVeR7DAbpme+HxUXj47gm61jqDeWLwQfES9418ndxN9k1yVBOzcneL0/PcBqZ3r32ikUr/FWneVCA==",
+  "dgSpecHash": "ev0oceNsdbr3/vBIDSNjnFLCEt1EP3h6VyZc2xwIXKl3EWvJ1Tafqz5K3Omzii+jiLGXCOo4uzXiwic2GnvVRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile.iOS\\Profile.iOS.csproj",
+  "projectFilePath": "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile.iOS\\Profile.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\charitynyanchera\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\charitynyanchera\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }

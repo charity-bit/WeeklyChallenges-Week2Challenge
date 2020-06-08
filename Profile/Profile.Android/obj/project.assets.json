@@ -1940,11 +1940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile.Android\\Profile.Android.csproj",
+      "projectUniqueName": "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile.Android\\Profile.Android.csproj",
       "projectName": "Profile.Android",
-      "projectPath": "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile.Android\\Profile.Android.csproj",
+      "projectPath": "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile.Android\\Profile.Android.csproj",
       "packagesPath": "C:\\Users\\charitynyanchera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile.Android\\obj\\",
+      "outputPath": "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1965,8 +1965,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile\\Profile.csproj": {
-              "projectPath": "C:\\Users\\charitynyanchera\\Desktop\\Profile\\Profile\\Profile\\Profile.csproj"
+            "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile\\Profile.csproj": {
+              "projectPath": "C:\\Users\\charitynyanchera\\Desktop\\Github\\Week2Challenge\\Profile\\Profile\\Profile\\Profile.csproj"
             }
           }
         }
