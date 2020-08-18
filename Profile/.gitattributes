@@ -1,6 +1,7 @@
-*.g linguist-language=c#
+
 * linguist-vendored
+
 *.cs linguist-vendored=false
-
-
 *.g linguist-detectable=false
+*.g linguist-language=c#
+.*cpp linguist-detectable=false
